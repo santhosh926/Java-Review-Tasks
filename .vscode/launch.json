@@ -1,0 +1,50 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Prob4",
+            "request": "launch",
+            "mainClass": "Prob4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Prob6",
+            "request": "launch",
+            "mainClass": "Prob6",
+            "projectName": "Day One_a3cd7c79"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Prob5",
+            "request": "launch",
+            "mainClass": "Prob5",
+            "projectName": "Day One_a3cd7c79"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Prob4",
+            "request": "launch",
+            "mainClass": "Prob4",
+            "projectName": "Day One_a3cd7c79"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Prob3",
+            "request": "launch",
+            "mainClass": "Prob3",
+            "projectName": "Day One_a3cd7c79"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GameSetMatch",
+            "request": "launch",
+            "mainClass": "GameSetMatch"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Template",
+            "request": "launch",
+            "mainClass": "Template"
+        }
+    ]
+}
